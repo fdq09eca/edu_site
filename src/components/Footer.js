@@ -13,8 +13,7 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://thriveweb.com.au/">Thrive</a>.
+          © Copyright {new Date().getFullYear()} HKIER, CUHK. All rights reserved.  <a href="http://www.cuhk.edu.hk/english/disclaimer.html">Disclaimer</a> | <a href="http://www.cuhk.edu.hk/english/privacy.html">Privacy policy</a>
         </span>
       </div>
     </footer>
