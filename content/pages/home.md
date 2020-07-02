@@ -7,7 +7,7 @@ subtitle: This is a template site for the consortium clearing house
 meta:
   description: hkier consortium
   noindex: true
-  title: HKIER
+  title: HKIER, try
 ---
 
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
