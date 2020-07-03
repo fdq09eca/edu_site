@@ -5,7 +5,7 @@ title: Our members
 featuredImage: '../../static/images/our-members-banner.jpg'
 meta:
   description: our-members
-  title: Members
+  title: Our members
 ---
 
 <div class="row">
