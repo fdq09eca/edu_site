@@ -15,7 +15,7 @@ meta:
       <div class="container">
         <h2>Prof Dongshu Ou</h2>
         <p class="title">CEO & Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>Research Interests: Economics of Education, Education Policy, Immigration/Migration and Education.</p>
         <p>dongshu@cuhk.edu.hk</p>
         <a class="button" href="mailto:dongshu@cuhk.edu.hk">Contact</button>
       </div>
