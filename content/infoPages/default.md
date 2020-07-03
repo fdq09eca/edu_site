@@ -4,7 +4,7 @@ slug: our-members
 title: Our members
 featuredImage: ../../static/images/our-members-banner
 meta:
-  description:
+  description: our-members
   title: Members
 ---
 

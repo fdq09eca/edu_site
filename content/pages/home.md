@@ -6,7 +6,7 @@ featuredImage: 'https://ucarecdn.com/54ba6ac8-ac89-4a8a-b47a-c72061d31d5e/'
 subtitle: |
   hosted by [Hong Kong Institute of Educational Research](https://www.hkier.cuhk.edu.hk/en/index.asp), [CUHK](https://www.cuhk.edu.hk/english/index.html)
 meta:
-  description: hkier consortium
+  description: Research Consortium on Education Policy and Development in the Greater Bay Area
   noindex: true
   title: Home
 ---
