@@ -11,10 +11,10 @@ meta:
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://placekitten.com/g/300/300" alt="Jane" style="width: 100%;" />
+      <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
       <div class="container">
         <h2>Jane Doe</h2>
-        <p class="title">CEO &amp; Founder</p>
+        <p class="title">CEO & Founder</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
@@ -24,7 +24,7 @@ meta:
 
   <div class="column">
     <div class="card">
-      <img src="https://placekitten.com/g/300/300" alt="Mike" style="width: 100%;" />
+      <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
       <div class="container">
         <h2>Mike Ross</h2>
         <p class="title">Art Director</p>
@@ -34,10 +34,10 @@ meta:
       </div>
     </div>
   </div>
-
+  
   <div class="column">
     <div class="card">
-      <img src="https://placekitten.com/g/300/300" alt="John" style="width: 100%;" />
+      <img src="/w3images/team3.jpg" alt="John" style="width:100%">
       <div class="container">
         <h2>John Doe</h2>
         <p class="title">Designer</p>
