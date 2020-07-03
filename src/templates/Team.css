@@ -24,12 +24,6 @@
 }
 
 /* Clear floats */
-.container::after, .row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
 .title {
   color: grey;
 }
