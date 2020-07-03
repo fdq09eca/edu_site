@@ -30,7 +30,7 @@ meta:
         <p class="title">[[ Position ]]</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
-        <a class="button" href="mailto:dongshu@cuhk.edu.hk">Contact</a>
+        <a class="button" href="mailto:dongshu@cuhk.edu.hk"><button>Contact</button></a>
       </div>
     </div>
   </div>
